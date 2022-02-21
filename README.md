@@ -1,4 +1,4 @@
-CS-SBU-2021
+CS-SBU-MSc-2021
 
 Presentation:
 
