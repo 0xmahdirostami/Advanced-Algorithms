@@ -1,6 +1,6 @@
 <h1>Sorting</h1>
 
-
+CS-SBU-MSc-2022
 ##### There are lots of different sorting algorithms, here we'll review whose are mentioned in<br><br> <b>CLRS</b> or are more popular - [Bubble Sort](#Bubble_Sort), [Selection Sort](#Selection_Sort), [Insertion Sort](#Insertion_Sort), [Merge Sort](#Merge_Sort)<br><br>, [Heap Sort](#Heap_Sort), [Radix Sort](#Radix_Sort), [Bucket Sort](#Bucket_Sort), [Multithreaded Merge Sort](#Multithreaded_Merge_Sort), [Quick Sort](#Quick_Sort).
 
 
