@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-CS-BIOINFORMATICS-SBU-2021
 
-Presentation:
-<a href="https://academic.oup.com/bioinformatics/article/36/1/169/5511838?login=true">
-A dynamic programming approach to integrate gene expression data and network information for pathway model generation</a>
-=======
 CS-BIOINFORMATICS-SBU-2021
 <br>
 <br>
@@ -15,4 +9,4 @@ Supervisor:
 Presentation:
 <a href="https://academic.oup.com/bioinformatics/article/36/1/169/5511838?login=true">
 A dynamic programming approach to integrate gene expression data and network information for pathway model generation</a>
->>>>>>> 2990ad34fc2c421819c6cba8d51722501f69cb5f
+
