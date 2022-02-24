@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>CS-SBU-MSc-2021-2022</h1>
 
 Presentation:
@@ -23,5 +23,3 @@ Presentation:
 <br>
 <b>Advanced_Algorithms</b> -> BinPacking, Sorting algorithms
 <br>
-
->>>>>>> 2990ad34fc2c421819c6cba8d51722501f69cb5f
