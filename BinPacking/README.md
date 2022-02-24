@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-CS-ADVANCED-ALGORITHMS-SBU-2021
 
-Presentation: BinPacking
-=======
 CS-ADVANCED-ALGORITHMS-SBU-2021
 <br>
 <br>
