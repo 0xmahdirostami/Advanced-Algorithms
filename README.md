@@ -1,5 +1,5 @@
 
-# CS-SBU-MSc-2021-2022</h1>
+# CS-SBU-MSc-2021</h1>
 University: [Shahid Beheshti University](https://www.sbu.ac.ir/)
 <br>
 ### Supervisors:
